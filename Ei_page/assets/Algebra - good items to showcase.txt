@@ -1,0 +1,25 @@
+1. Finding unknown quantities using a balance: A pre-requisite to solving linear equations in one variable
+
+2. Understanding of the variable as an unknown quantity
+
+3. Representing an equation using a balance model
+
+3.1: An animation using weighing balance to teach the concept of balancing a linear equation.
+https://mindspark-ei.s3.amazonaws.com/Enrichment_Modules/html5/questions/ALG/ALG_qcode_8586_ans/src/index.html?shapesLeft=triangle-x-999966|square-1-cc99cc&shapesRight=square-1-cc99cc&countLeft=1-1|4-2&countRight=8-2&operation=balance-left-4|square$4|square&textFlag=0&showImage=0
+
+3.2 : Activity to learn solving simple linear equations
+https://mindspark-ei.s3.amazonaws.com/Enrichment_Modules/html5/games/92/src/index.html?gameMode=1&language=en_in?language=en_in
+
+3.3: Remedial activity giving specific feedback based on students' misconception
+https://mindspark-ei.s3.amazonaws.com/Enrichment_Modules/html5/remedialItems/RALG003A/src/index.html?noOfLevels=5&levelWiseMaxScores=4|4|4|4|4&lastLevelCleared=0&previousLevelLock=1&language=en_in
+
+3.4: Solving simple linear equations using step by step solver by providing instant feedback
+https://staging.mindspark.in/Mindspark/Student/contentPreviewIframe?oldContentID=94395&context=en-us&level=lower
+
+4. Solving linear equations on both the sides of an equation using step by step solver
+
+5. Solving complex equations using the step by step solver tool
+
+6. A timed test to build procedural fluency
+https://www.educationalinitiatives.com/mindspark/timedtest/generateQuestions.php (Timed test code: ALG01)
+
